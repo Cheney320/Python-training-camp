@@ -159,7 +159,7 @@ menu = {
     }
 }
 
-layers = [menu, ]
+layers = [menu]
 
 
 print('欢迎来到全国省市区查询系统'.center(50, '='))
