@@ -1,6 +1,9 @@
-Albert|Albert123|1700
+Albert|Albert123|29000
 Chen|Chen666|3000
 Sun|Sun1234r31|500
 Yue|Yue123|21900
 Wang|wang123432|1500
 Zen|Zen123hv|700
+haha|123123|9000
+test|test|14000
+dd|1234|602000

@@ -11,7 +11,7 @@ chicken 10 3
 
 import os
 
-with open('a.txt', 'r') as read_f, open('.a.txt.swap', 'w') as write_f:
+with open('a.txt', 'r') as read_f, open('.a.txt.swap', 'w+') as write_f:
     s = 0
     for line in read_f:
         tmp = line.split(' ')
