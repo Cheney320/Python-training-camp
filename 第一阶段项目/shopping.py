@@ -206,16 +206,3 @@ if login:
     os.remove('users.txt')
     os.rename('.users_temp.txt','users.txt')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
