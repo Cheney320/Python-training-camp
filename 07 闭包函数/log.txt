@@ -1,0 +1,2 @@
+<function func1 at 0x1037ea730>:2019-08-12 00:32:08
+<function func2 at 0x10cdc2ae8>:2019-08-12 00:32:18
